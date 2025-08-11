@@ -1,4 +1,4 @@
-# 🦋  Portfólio - Luísa Rosa
+# 🦋 Portfólio - Luísa Rosa
 
 Bem-vindo(a) ao meu portfólio!  
 Aqui compartilho um pouco sobre mim, minha trajetória e alguns dos meus projetos mais importantes.  
@@ -41,7 +41,7 @@ O objetivo é oferecer uma visão clara e agradável sobre meu trabalho, com foc
 ---
 
 ## 📂 Estrutura de Pastas
-
+portfolio-luisa
 │── 📄 index.html # Estrutura HTML do site
 │── 📄 main.css # Estilos e layout
 │── 🖼️ luisa.png # Foto de apresentação
